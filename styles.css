@@ -1,0 +1,89 @@
+h1{
+font-size:70px;
+  }
+header{
+  text-align:center;
+  z-index:1;
+  background-size:cover;
+  color:black;
+  margin-bottom: -10px;
+  
+  }
+  ul{
+    padding:10px;
+    background: white; 
+    clear:both;
+    }
+  li{
+      display:inline;
+      padding: 0px 10px 0px 10px;
+
+     
+      }
+      
+  #foot{
+    color:black;
+    border:1px solid black;
+    text-decoration: none;
+    border-radius: 2px;
+    background-color: black;
+    color:white;
+      }
+   
+span{
+  font-family: cursive;
+  font-weight: bold;
+  color: blue;
+  font-size: 20px;
+}
+#welcome{
+  font-family: cursive;
+  font-weight: bold;
+  color: #8B2323;
+  font-size: 25px;
+}
+
+  img{
+    height: 300px;
+    width: 300px;
+    margin:10px 0px 0px 0px;
+    margin-bottom : -40px;
+  
+    border-radius: 20px;
+    }
+    body{
+      font-family: cursive;
+      color:#8B2323;
+      border:15px solid transparent;
+       -webkit-border-image: url("magic.jpg") 30 30 stretch; /* Safari 3.1-5 */
+    -o-border-image: url("magic.jpg") 30 30 stretch; /* Opera 11-12.1 */
+    border-image: url("magic.jpg") 30 30 stretch;
+    }
+    #text{
+      text-align: center;
+    
+    }
+    #btnClick{
+      border:1px solid black;
+      border-radius:2px;
+      background-color: black;
+      color:white;
+    }
+    #display{
+      text-align: center;
+      width:500px;
+      height:100px;
+    -webkit-border-image: url("images7.jpg") 30 30 round; /* Safari 3.1-5 */
+    -o-border-image: url("images7.jpg") 30 30 round; /* Opera 11-12.1 */
+    border-image: url("images7.jpg") 30 30 round;
+    margin-top:10px; 
+    margin:10px auto;
+    background-color:#F5F5F5;
+    color:black;
+  }  
+  .form{
+    color:#36648B;
+  }
+    }
+  }
+</style>
